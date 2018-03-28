@@ -165,8 +165,8 @@ img::-moz-selection {
 }
 
 header.masthead {
-  text-align: center;
-  color: black;
+  text-align: left;
+  color: white;
   background-image: url("../img/background4.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
